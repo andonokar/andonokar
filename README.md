@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=azure,bitbucket,html,idea,java,kafka,maven,mongodb,mysql,postgres,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bitbucket,docker,flask,git,githubactions,github,idea,kafka,kubernetes,linux,mongodb,mysql,pycharm,py,scala)](https://skillicons.dev)
 <!--
 **andonokar/andonokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
